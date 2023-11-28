@@ -1,3 +1,3 @@
 # Hi There, I'm Keerthana 👋
 <hr>
-<a href="https://newbrunswick.rutgers.edu/">Computer Science and Business Administration Student at Rutgers University, New Brunswick </a>
+Computer Science and Business Administration Student at <a href="https://newbrunswick.rutgers.edu/"> Rutgers University, New Brunswick </a>

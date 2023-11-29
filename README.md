@@ -13,7 +13,7 @@ AI Resume Parser - Using NumPy and Natural Language Toolkit in Python, my progra
 <img src="https://github.com/ktalla/ktalla/assets/70788915/f1d3a6a3-d264-470c-aacc-f61378d57512" width="50" height="50" alt="Image 3"> 
 <img src="https://github.com/ktalla/ktalla/assets/70788915/7e3b939b-2cb3-44b8-b696-6e66bd0c556b" width="50" height="50" alt="Image 4">
 <img src="https://github.com/ktalla/ktalla/assets/70788915/9558d31d-8b5d-44d7-8f2e-b333373fd9e9" width="70" height="50" alt="Image 8">
-<img src="https://github.com/ktalla/ktalla/assets/70788915/326e05a5-244b-40ad-9452-c2f1e820d530" width="90" height="50" alt="Image 8">
+<img src="https://github.com/ktalla/ktalla/assets/70788915/326e05a5-244b-40ad-9452-c2f1e820d530" width="100" height="50" alt="Image 8">
 <img src="https://github.com/ktalla/ktalla/assets/70788915/b6bd8be6-7354-455d-b92b-5f0d414daafc" width="50" height="50" alt="Image 5">
 <img src="https://github.com/ktalla/ktalla/assets/70788915/9cdd5bcf-18b3-4eea-80ad-2424d463da6c" width="50" height="50" alt="Image 5">
 <img src="https://github.com/ktalla/ktalla/assets/70788915/394f3cfb-39ff-461f-af75-9b8d8d6cf233" width="50" height="50" alt="Image 5">

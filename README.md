@@ -4,8 +4,7 @@ Computer Science and Business Administration Student at <a href="https://newbrun
 
 
 ## Current Projects
-AI Resume Parser - Using NumPy and Natural Language Toolkit in Python, my program will parse through the resumes using a clustering algorithm.
-
+Building a portfolio website using HTML, CSS, and JavaScript
 
 ## Coding Languages and Technologies
 <img src="https://github.com/ktalla/ktalla/assets/70788915/1fceadab-90ee-43f8-87df-51fe56d78c91" width="60" height="50" alt="Image 1">
